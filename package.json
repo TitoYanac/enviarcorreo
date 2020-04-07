@@ -1,0 +1,23 @@
+{
+  "name": "formularioargenper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bootstrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TitoYanac/enviarcorreo.git"
+  },
+  "author": "tito yanac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TitoYanac/enviarcorreo/issues"
+  },
+  "homepage": "https://github.com/TitoYanac/enviarcorreo#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  }
+}
